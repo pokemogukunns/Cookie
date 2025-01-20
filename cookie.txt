@@ -1,0 +1,47 @@
+Domain: .youtube.com
+Include Subdomains: TRUE
+Path: /
+Secure: TRUE
+Expiry: 1736754640
+Name: GPS
+Value: 1
+
+Domain: .youtube.com
+Include Subdomains: TRUE
+Path: /
+Secure: TRUE
+Expiry: 1771312841
+Name: PREF
+Value: f4=4000000&tz=Asia.Tokyo
+
+Domain: .youtube.com
+Include Subdomains: TRUE
+Path: /
+Secure: TRUE
+Expiry: 0
+Name: YSC
+Value: wMIRuVLSKQY
+
+Domain: .youtube.com
+Include Subdomains: TRUE
+Path: /
+Secure: TRUE
+Expiry: 1752304840
+Name: _Secure-ROLLOUT_TOKEN
+Value: CPtCt7301MisqEQ0s/jv5TyigMY0sjYr5TyigM%3D
+
+Domain: .youtube.com
+Include Subdomains: TRUE
+Path: /
+Secure: TRUE
+Expiry: 1752304842
+Name: VISITOR_INFO1_LIVE
+Value: g7qzq4bKjG4
+
+Domain: .youtube.com
+Include Subdomains: TRUE
+Path: /
+Secure: TRUE
+Expiry: 1752304842
+Name: VISITOR_PRIVACY_METADATA
+Value: CgJK
